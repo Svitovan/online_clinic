@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+body {
+    
+    margin: auto;
+    width: 900px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+
+
+
+
+
+
+.header  {
+    background-color: #69d2e7;
+    color: white;  
+    padding: 25px;  
+    
+}
+
+
+.about_us  {
+    background-color: white;
+    padding: 25px;  
+}
+
+.features {
+    background-color: #f1f1f1;
+    padding: 25px;  
+}
+
+.subscribe {
+    background-color: #fa6900;
+    color: white;
+    padding: 25px;  
+}
+
+.doctor {
+    background-color: #f1f1f1;
+    padding: 25px;  
+}
+
+.some_text {
+    background-color: #fa6900;
+    color: white;
+    
+}
+
+.some_text img {
+  width: 100%;
+  
+}
+
+.footer {
+    background-color: #69d2e7;
+    padding: 25px;  
+}
+
+
+
+
+
+
+#name {
+    line-height: 2px;
+    font-size: 55px;
+    
+
+}
+
+#hr1 {
+    width:200px;
+}
+
+
+#card {
+    position: relative;
+}
+
+#ace {
+     left: -40px; top: 80px; 
+     background-color: fuchsia;
+}
+
+
