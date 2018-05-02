@@ -11,7 +11,7 @@ body {
 
 
 
-
+/* class */
 
 
 .header  {
@@ -60,6 +60,10 @@ body {
     padding: 25px;  
 }
 
+.posts {
+    background-color: #f1f1f1;
+    padding: 25px;  
+}
 
 /* id */
 
@@ -81,9 +85,23 @@ body {
     position: relative;
 }
 
-#ace {
-     left: -40px; top: 80px; 
-     background-color: fuchsia;
+
+
+#white_img {
+    float: left;
+    margin-right: 10px;
 }
 
+#logo {
+float: left;
+margin-right: 10px;
 
+}
+
+#company_name {
+    line-height: 2px;
+}
+
+#tulips {
+    margin-right: -15px;
+}
